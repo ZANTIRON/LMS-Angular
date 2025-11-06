@@ -104,10 +104,6 @@ coreui-free-angular-admin-template
 
 ## Documentation
 
-The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for Angular](https://coreui.io/angular/)
-
----
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server

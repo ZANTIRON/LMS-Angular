@@ -25,7 +25,6 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 
 * [CoreUI Pro](#coreui-pro)
-* [Quick Start](#quick-start)
 * [Installation](#installation)
 * [Basic usage](#basic-usage)
 * [What's included](#whats-included)
@@ -41,10 +40,6 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * 💪  [CoreUI Pro React Admin Template](https://coreui.io/product/react-dashboard-template/)
 * 💪  [CoreUI Pro Vue Admin Template](https://coreui.io/product/vue-dashboard-template/)
 
-## Quick Start
-
-- [Download the latest release](https://github.com/coreui/coreui-free-angular-admin-template/)
-- Clone the repo: `git clone https://github.com/coreui/coreui-free-angular-admin-template.git`
 
 #### <i>Prerequisites</i>
 Before you begin, make sure your development environment includes `Node.js®` and an `npm` package manager.
